@@ -1,0 +1,23 @@
+.checkout-product {
+	display: flex;
+	align-items: center;
+}
+
+.checkout-product img {
+	width: 200px;
+	height: 150px;
+	padding: 10px;
+	object-fit: contain;
+}
+
+.checkout-product-info {
+	margin-left: 20px;
+}
+
+.checkout-product-info > button {
+	background-color: #f0c14b;
+	border: 1px solid;
+	margin-top: 15px;
+	border-color: #a88734 #9c7e31 #846a29;
+	color: #111;
+}
